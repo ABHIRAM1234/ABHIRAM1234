@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **Data Scientist** 
 ## 👀 **What am I interested in?**
 - **Data Science** and **Machine Learning**
 - **Natural Language Processing (NLP)**, **LLMs**, **LangChain**, and **GPT**
-- **Reinforcement Learning** and **CNNs**
-- **AI applications in Healthcare** and **Neuroscience**
 - **Computer Vision** and **Deep Learning** models
 - Building **AI-powered applications** and **projects** to make a real-world impact.
 
@@ -27,15 +25,5 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **Data Scientist** 
 - Email: [abhiram2000@gmail.com](mailto:abhiram2000@gmail.com)
 - LinkedIn: [Abhiram M V](https://www.linkedin.com/in/abhiram-mv/)
 - GitHub: [ABHIRAM1234](https://github.com/ABHIRAM1234)
-
-## 🌱 **Currently learning:**
-- Advanced **Natural Language Processing** with **large language models**
-- **AI in Healthcare** and **Biologically Inspired Algorithms**
-- **Deployment & scalability** of AI models using **AWS** and **Kubernetes**
-
-## 🚀 **Projects to check out:**
-- **[Leaf Disease Detection](https://github.com/ABHIRAM1234/leaf-disease-detection)**
-- **[AI-powered Warehouse Assistant](https://github.com/ABHIRAM1234/warehouse-assistant)**
-- **[Epileptic Seizure Detection](https://github.com/ABHIRAM1234/epileptic-seizure-detection)**
 
 Thanks for stopping by my GitHub profile. Feel free to explore my repositories, star projects you find interesting, and connect with me!
